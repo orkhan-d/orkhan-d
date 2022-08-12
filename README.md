@@ -27,7 +27,7 @@ I enjoy learning new stuff and coding some awesome software! 😎
 #### My stats 📊
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0r1k&theme=dark&background=000000)](https://git.io/streak-stats)
 
-##### How to connect me:
+#### How to connect me 📫
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/d__khan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.inkenin.com/in/orkhan-djafarli)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/orkhandjafarli)
