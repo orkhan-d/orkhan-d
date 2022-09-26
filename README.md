@@ -2,7 +2,7 @@
 
 ### I'm Python Developer 👨‍💻
 
-I enjoy learning new stuff and coding some awesome software! 😎
+I enjoy learning new stuff and coding some awesome or at least useful and interesting software! 😎
 
 ### 🛠️ Laungages and Tools
 
