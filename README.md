@@ -28,6 +28,9 @@ I enjoy learning new stuff and coding some awesome or at least useful and intere
 #### My stats 📊
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0r1k&theme=dark&background=000000)](https://git.io/streak-stats)
 
+#### LeetCode stats📊
+[![LeetCode user D_0_Khan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FD_0_Khan&logo=leetcode&logoColor=yellow)](https://leetcode.com/D_0_Khan/)
+
 #### How to connect me 📫
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/d__khan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.inkenin.com/in/orkhan-djafarli)
