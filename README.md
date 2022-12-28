@@ -40,7 +40,7 @@ I enjoy learning new stuff and coding some awesome or at least useful and intere
 ![Jupyter](https://img.shields.io/badge/Jupyter-gray?style=for-the-badge&logo=Jupyter)
 
 #### My stats 📊
-[![GitHub Streak](https://streak-stats.demolab.com?user=0r1k&theme=dark&hide_border=true&border_radius=8.5&background=000D0B&stroke=8D0FDD&currStreakNum=00DBDD&sideNums=00AFB0&currStreakLabel=E36700&ring=DD0000&sideLabels=DD4E00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=orkhan-d&theme=dark&hide_border=true&border_radius=8.5&background=000D0B&stroke=8D0FDD&currStreakNum=00DBDD&sideNums=00AFB0&currStreakLabel=E36700&ring=DD0000&sideLabels=DD4E00)](https://git.io/streak-stats)
 
 #### LeetCode stats📊
 [![LeetCode user D_0_Khan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FD_0_Khan&logo=leetcode&logoColor=yellow)](https://leetcode.com/D_0_Khan/)
