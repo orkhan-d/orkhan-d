@@ -1,10 +1,10 @@
 ## Hi, I'm Orkhan 👋 
 
-### FullStack Developer 🐍 / Freelancer 🧑🏻‍💻 / Genius 🧠 / Just a great man 😎
+### Python Back-End Developer 🐍
 
 Learning new stuff, creating some projects, just enjoying coding!
 
-Wanna create something and need a full-stack dev? Connect me ways below ⏬ I always reply fast
+Wanna create something and need a Back-End dev? Connect me ways below ⏬
 
 [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_orkhan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=orhan.jafarliev@gmail.com)
