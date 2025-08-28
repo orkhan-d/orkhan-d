@@ -49,4 +49,4 @@ Learning new stuff, creating some projects, just coding!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkhan-d&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=orkhan-d&show_icons=true&theme=codeSTACKr)
