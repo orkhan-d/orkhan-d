@@ -1,52 +1,132 @@
-## Hi, I'm Orkhan 👋 
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="𝐎𝐑𝐊𝐇𝐀𝐍·𝐃 — Orkhan Dzhafarli. From idea to deployment. My flat silver geometric logo connects Flutter mobile, React web, Python backend, and Linux infrastructure cards, with subtly animated connections." width="100%" />
+</p>
 
-### Python Back-End / React Front-End Developer 👨‍💻
+<h1 align="center">Hi, I'm Orkhan Dzhafarli 👋</h1>
 
-Learning new stuff, creating some projects, just coding!
+<p align="center"><strong>𝐎𝐑𝐊𝐇𝐀𝐍·𝐃</strong></p>
 
-### Wanna create something and need a Back-End or Full-Stack dev? Connect me ways below ⏬
+<p align="center">
+  <strong>Full-stack &amp; mobile developer</strong><br />
+  Flutter apps. Python backends. React frontends. Linux servers.<br />
+  I connect the pieces — from the first idea to a running product.
+</p>
 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_orkhan)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orhan.jafarliev@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orkhan-dzhafarli-9a6492337/)
+<p align="center">
+  <a href="https://t.me/d_orkhan"><img src="https://img.shields.io/badge/Telegram-171717?style=for-the-badge&amp;logo=telegram&amp;logoColor=D4D4D8" alt="Message me on Telegram" /></a>
+  <a href="mailto:orhan.jafarliev@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&amp;logo=gmail&amp;logoColor=D4D4D8" alt="Email Orkhan" /></a>
+  <a href="https://www.linkedin.com/in/orkhan-dzhafarli-9a6492337/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+</p>
 
-### Skills, soft, etc. 📝
+---
 
-#### Back-End:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## From idea to deployment
 
-#### Front-End:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I work across mobile, web, backend, and infrastructure. I build mobile apps with Flutter, APIs with Python, and web interfaces with React — then set up Linux servers and handle deployment.
 
-#### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+I enjoy understanding how the whole system fits together and making it work from end to end.
 
-#### Others:
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![ShadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<p align="center">
+  <img src="assets/build-system.svg" alt="How I connect a product: Flutter mobile and React web interfaces connect to Python APIs, PostgreSQL and Redis; Linux, Docker, and Nginx support deployment." width="100%" />
+</p>
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+> I like knowing what happens after the button is pressed — from the interface to the API, the data, and the server.
 
-![Linux](https://img.shields.io/badge/Linux-EB0?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+<details>
+<summary><strong>What can we build together? ↗</strong></summary>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-gray?style=for-the-badge&logo=Jupyter)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+| Your starting point | Where I can help |
+| :--- | :--- |
+| **“I have an app idea.”** | A Flutter mobile app, its backend, and the data behind it. |
+| **“I need a web product.”** | A React interface connected to an API. |
+| **“I need the pieces to talk.”** | Python APIs, databases, caching, and messaging. |
+| **“Now it needs somewhere to run.”** | Linux server setup, Docker, Nginx, and deployment. |
 
-![](https://github-readme-stats.vercel.app/api?username=orkhan-d&show_icons=true&theme=codeSTACKr)
+Bring the idea, the unfinished project, or the server that needs setting up. We can start there.
+
+</details>
+
+## My stack
+
+### Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="48" height="48" />
+</p>
+
+Flutter · Dart
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" title="Pydantic" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="48" height="48" />
+</p>
+
+Python · FastAPI · Pydantic · Laravel
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/shadcnui/71717A/A1A1AA" alt="shadcn/ui" title="shadcn/ui" width="48" height="48" />
+</p>
+
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · shadcn/ui
+
+### Data & messaging
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="48" height="48" />
+</p>
+
+PostgreSQL · Redis · MySQL · Supabase · Firebase · RabbitMQ
+
+### Linux & deployment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="48" height="48" />
+</p>
+
+Linux · Bash · Docker · Nginx · AWS
+
+### Development tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" />
+</p>
+
+Git · Jupyter
+
+## Beyond the code
+
+**[𝐎𝐑𝐊𝐇𝐀𝐍·𝐃 on Telegram ↗](https://t.me/orkhan_d)**
+
+The same name, the same person — my Telegram channel alongside the code.
+
+---
+
+### Have an idea? Let's build it.
+
+Need a mobile app, a web product, or help getting it running on Linux? I'd love to hear what you're working on.
+
+**[Message me on Telegram](https://t.me/d_orkhan)** · [Send an email](mailto:orhan.jafarliev@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/orkhan-dzhafarli-9a6492337/)
+
